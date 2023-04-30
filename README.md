@@ -1,4 +1,4 @@
-Hi 👋 My name is Thanh
+Hi 👋 My name is Thanh Pham.
 ======================
 
 Frontend Developer
