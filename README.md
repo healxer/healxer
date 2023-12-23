@@ -29,8 +29,6 @@ My passion is frontend creating. In 2021 I decided to become a self-taught Front
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,5 +39,3 @@ My passion is frontend creating. In 2021 I decided to become a self-taught Front
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=healxer&show_icons=true&locale=en" alt="healxer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=healxer&" alt="healxer" /></p>
-
-Support 🙏
