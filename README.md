@@ -32,8 +32,14 @@ My passion is frontend creating. In 2021 I decided to become a self-taught Front
 <b>My GitHub Stats</b>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=healxer&show_icons=true&locale=en&layout=compact" alt="healxer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=healxer&show_icons=true&locale=en" alt="healxer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=healxer&" alt="healxer" /></p>
+
+Support 🙏
