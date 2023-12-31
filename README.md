@@ -16,11 +16,14 @@ My passion is frontend creating. In 2021 I decided to become a self-taught Front
 
 
 
+
 ### Socials
 
 <p align="left">
 <a href="https://linkedin.com/in/thanh-pham-01146620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh-pham-01146620a" height="30" width="40" /></a>
 </p>
+
+
 
 ### My Github Stats
 
