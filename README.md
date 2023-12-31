@@ -18,7 +18,9 @@ My passion is frontend creating. In 2021 I decided to become a self-taught Front
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/tayako" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/healxer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://linkedin.com/in/thanh-pham-01146620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh-pham-01146620a" height="30" width="40" /></a>
+</p>
 
 ### My Github Stats
 
