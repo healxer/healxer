@@ -1,7 +1,6 @@
-Hi there 👋 My name is Thanh.
+Hi there 👋 I'm Thanh.
 ======================
 
-Frontend Developer
 ------------------
 
 My passion is frontend creating. In 2021 I decided to become a self-taught Frontend Developer. Having spent some time on learning how to design websites and create web applications.
