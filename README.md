@@ -1,7 +1,7 @@
 Hi there 👋 I'm Thanh.
 ======================
 
-My passion is frontend creating. In 2021 I decided to become a self-taught Frontend Developer. Having spent some time on learning how to design websites and create web applications.
+My passion is frontend creating. I've decided to become a self-taught Frontend Developer. Having spent some time on learning how to design websites and create web applications.
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [thanhphamoffice@gmail.com](mailto:thanhphamoffice@gmail.com)
