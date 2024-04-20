@@ -5,7 +5,6 @@ My passion is frontend creating. Having spent some time on learning how to desig
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [thanhphamoffice@gmail.com](mailto:thanhphamoffice@gmail.com)
-* 🧠  I'm learning HTML + CSS, JavaScript + React
 * 🤝  I'm open to collaborating in open-source or projects
 
 ------------------
